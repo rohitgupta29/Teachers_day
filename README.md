@@ -2,6 +2,7 @@
 
 ## "We must find time to stop and Thank people who make a difference in our lives."
 
+#Dear
 # Vimila Mam
 # Prasoon Sir
 # Reshma Mam
@@ -9,16 +10,16 @@
 			
 # Happy Teacher's day from All of your Students
 
-Tojo
-Ramiz
-Shravan
-Shwetashree
-Pousali
-Sriraj
-Navjyoti
-Sudip
-Himanshu
-Rohit 
+Tojo,
+Ramiz,
+Shravan,
+Shwetashree,
+Pousali,
+Sriraj,
+Navjyoti,
+Sudip,
+Himanshu,
+Rohit ,
 and All others.
 
 ## Thank you for guiding us with..
